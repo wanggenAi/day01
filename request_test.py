@@ -6,4 +6,4 @@ def printI():
 tt = printI()
 print(tt.send(None))
 print(tt.send('aa'))
-print(tt.send('bb'))
+print(tt.send('bb'));;
